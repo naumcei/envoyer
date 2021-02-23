@@ -14,6 +14,7 @@ class User
         $ast = $this->lexer->lexify($tokens);
         foreach ($ast as $node) {
             // parse...
+            //must have this
         }
     }
 }
