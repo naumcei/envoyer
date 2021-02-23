@@ -17,6 +17,8 @@ class User
             //must have this
         }
     }
+
+    //I need to implement new feature
 }
 
 // What the heck is 4 for?
