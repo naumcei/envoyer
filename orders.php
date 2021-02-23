@@ -21,3 +21,5 @@ function isShopOpen($day): bool
     }
     return false;
 }
+
+$b = 'sadasd';
