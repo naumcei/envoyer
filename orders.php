@@ -7,6 +7,7 @@ class User
     // What the heck is 7 for?
     public $access = 7;
 
+    //TODO
     public function parse(string $code): void
     {
         $tokens = $this->tokenizer->tokenize($code);
