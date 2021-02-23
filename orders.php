@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 $a=3;
-
+//Todo
 function isShopOpen($day): bool
 {
     if ($day) {
