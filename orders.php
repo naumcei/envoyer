@@ -2,6 +2,9 @@
 
 declare(strict_types=1);
 $a=3;
+$b =   'sadasd';
+
+
 //Todo
 function isShopOpen($day): bool
 {
@@ -22,4 +25,3 @@ function isShopOpen($day): bool
     return false;
 }
 
-$b = 'sadasd';
